@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by https://github.com/vhdmdls4 and Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by me (@vhdmdls4) and Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
